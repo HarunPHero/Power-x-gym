@@ -1,0 +1,75 @@
+[
+  {
+   
+    "id": 1,
+    "category": "PSYCNO TRAINING",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets", 
+      "img":"https://power-x-gym-a1s2.web.app/static/media/victor-freitas-546919-unsplash.e9e8ebd4.png"
+    }
+  },
+  {
+    
+    "id": 5,
+    "category": "STRENGTH TRAINING",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets",
+      "img":"https://power-x-gym-a1s2.web.app/static/media/baylee-gramling-5m4Z14SDL80-unsplash2.83df42f5.jpg"
+    }
+  },
+  {
+   
+    "id": 4,
+    "category": "CARDIO TRAINING",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets",
+      "img":"https://power-x-gym-a1s2.web.app/static/media/humphrey-muleba-LOA2mTj1vhc-unsplash2.962373cb.jpg"
+    }
+  },
+  {
+   
+    "id": 2,
+    "category": "SELF DEFENSE",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets",
+      "img":"https://power-x-gym-a1s2.web.app/static/media/alora-griffiths-TuzrzArccvc-unsplash2.336d35e0.jpg"
+    }
+  },
+  {
+    
+    "id": 3,
+    "category": "ADVANCE GYM",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets",
+      "img":"https://power-x-gym-a1s2.web.app/static/media/john-fornander-FIu48iuo_4g-unsplash2.e53f8b7b.jpg"
+    }
+  },
+  {
+    
+    "id": 6,
+    "category": "PSYCNO TRAINING",
+    "phone": "1-770-736-8031 x56442",
+    "company": {
+      "name": "Power X Gym",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets",
+      "img":"https://power-x-gym-a1s2.web.app/static/media/sven-mieke-Lx_GDv7VA9M-unsplash2.2fe4ffc7.jpg"
+    }
+  }
+]
+

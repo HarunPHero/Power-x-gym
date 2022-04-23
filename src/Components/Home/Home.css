@@ -1,0 +1,68 @@
+.progression{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url('../../images/Image-Icon/hipcravo-5UbIqV58CW8-unsplash-min.jpg');
+    background-size: cover;
+  
+}
+.home{
+    
+   text-shadow: 4px 4px 4px rgb(207, 207, 207);
+  
+}
+.workout{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url('../../images/Image-Icon/daniel-apodaca-WdoQio6HPVA-unsplash-min.jpg');
+    background-size: cover;
+  
+}
+.nutrition{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url('../../images/Image-Icon/penguinuhh-8VI6WwEEEHw-unsplash-min.jpg');
+    background-size: cover;
+  
+}
+.logo{
+   margin: 30%;
+}
+.about{
+    font-family: 'Bebas Neue', cursive;
+    
+    font-size: 45px;
+    text-decoration:underline;
+    text-decoration-color: rgb(255, 187, 0);
+    text-decoration-thickness :5px ;
+}
+.surving-message{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+}
+.dream{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    color: rgb(255, 217, 0);
+}
+#about > img{
+width: 50%;
+
+}
+.about{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 900;
+    color: lightgray;
+}
+#trainings .card-1{
+    font-family: 'Bebas Neue', cursive;
+   background-image: url('../../images/Image-Icon/bruce-mars-gJtDg6WfMlQ-unsplash-min.png');
+   background-size: cover;
+  padding-bottom: 15%;
+}
+#trainings .card-2{
+    font-family: 'Bebas Neue', cursive;
+   background-image: url('../../images/Image-Icon/arthur-edelman-qfjuh4OLdxw-unsplash-min.jpg');
+   background-size: cover;
+  padding-bottom: 15%;
+}
+#why>h1{
+    font-size: 45px;
+    font-family: 'Bebas Neue', cursive;
+}

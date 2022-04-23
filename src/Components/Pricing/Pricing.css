@@ -1,0 +1,25 @@
+.pricing-banner {
+  padding: 10%;
+}
+.pricing {
+  font-family: "Bebas Neue", cursive;
+}
+.amount {
+  font-size: 60px;
+  color: rgb(253, 210, 19);
+}
+.price-1 {
+  background-image: url("../../images/Image-Icon/hipcravo-5UbIqV58CW8-unsplash-min.jpg");
+  background-size: cover;
+}
+.price-2 {
+  background-image: url("../../images/Image-Icon/daniel-apodaca-WdoQio6HPVA-unsplash-min.jpg");
+  background-size: cover;
+}
+.price-3 {
+  background-image: url("../../images/Image-Icon/penguinuhh-8VI6WwEEEHw-unsplash-min.jpg");
+  background-size: cover;
+}
+.bill-text {
+  color: rgb(253, 210, 19);
+}
