@@ -1,0 +1,8 @@
+.cusFooterContainer1{
+    background-image: linear-gradient(to right,#171426, rgb(56, 56, 56));
+    color: white;
+    padding: 5%;
+}
+.col-md-3 > h5{
+    color: rgb(255, 174, 0);
+}

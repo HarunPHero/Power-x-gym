@@ -24,16 +24,12 @@ const HText = () => {
               THE BEST FITNESS STUDIO IN TOWN
             </p>
             <p className="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, natus! Aliquid corporis aspernatur fugiat, et, rerum corrupti iste labore in reiciendis a modi quaerat incidunt laudantium consequatur est. Asperiores, vel!</p>
-            <a className="btn btn-warning" href="/">
+            <a className="btn btn-warning" href="/price">
               JOIN US
             </a>
           </div>
           <div className="col-md-5 mt-5">
-            <img
-              src="./video.svg"
-              className="d-block w-100"
-              alt="..."
-            />
+            
           </div>
         </div>
       </div>
